@@ -1,0 +1,23 @@
+{
+  "name": "Modivi Group - Digital Marketing & Web Design Agency",
+  "short_name": "Modivi Group",
+  "description": "Modivi Group blends cutting-edge technology with creative vision to deliver digital marketing, web development, and branding solutions that grow your business.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/assets/MG.PNG",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/MG.PNG",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

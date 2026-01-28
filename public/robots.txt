@@ -1,0 +1,14 @@
+# robots.txt for Modivi Group
+
+User-agent: *
+Allow: /
+
+# Disallow admin or private areas (if any)
+Disallow: /api/
+Disallow: /_next/
+
+# Sitemap location
+Sitemap: https://modivi.group/sitemap.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1

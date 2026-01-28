@@ -4,6 +4,7 @@ import Link from "next/link";
 import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 import StarBackground from "../components/StarBackground";
 import BusinessNav from "../components/BusinessNav";
+import Footer from "../components/Footer";
 
 export default function BusinessPage() {
   return (
@@ -112,9 +113,7 @@ export default function BusinessPage() {
         </section>
 
         {/* Footer */}
-        <footer className="py-12 px-6 border-t border-zinc-900 text-center">
-          <p className="text-zinc-600 text-sm">© {new Date().getFullYear()} Modivi Group. All rights reserved.</p>
-        </footer>
+        <Footer />
       </div>
     </div>
   );
