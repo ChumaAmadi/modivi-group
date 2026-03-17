@@ -17,11 +17,11 @@ export default function OurWorkPage() {
       serviceType: "Full-Service",
       image: "/assets/Adonai.PNG",
       website: "https://www.adonaialliance.com/",
-      shortDescription: "Transformed a brick-and-mortar healthcare agency with an outdated 2012 website into a modern digital operation by redesigning their entire web presence, driving a 45% increase in class attendance, and building a custom application to manage thousands of clients across Massachusetts.",
+      shortDescription: "Transformed a brick and mortar healthcare agency with an outdated 2012 website into a modern digital operation by redesigning their entire web presence, driving a 45% increase in class attendance, and building a custom application to manage thousands of clients across Massachusetts.",
       sections: [
         {
           title: "Overview",
-          content: "Before working with us, Adonai Alliance was running their healthcare business the old-school way: purely brick and mortar with everything happening through word of mouth. Their last website was from 2012 and hadn't been touched since. They were struggling to manage thousands of clients across Massachusetts using outdated systems. We completely transformed how they operate digitally."
+          content: "Before working with us, Adonai Alliance was running their healthcare business the old school way: purely brick and mortar with everything happening through word of mouth. Their last website was from 2012 and hadn't been touched since. They were struggling to manage thousands of clients across Massachusetts using outdated systems. We completely transformed how they operate digitally."
         },
         {
           title: "Complete Website Redesign",
@@ -48,7 +48,7 @@ export default function OurWorkPage() {
       serviceType: "Full-Service",
       image: "/assets/TCF.PNG",
       website: "https://www.treasurecoastfence.com/",
-      shortDescription: "Took a 1-month-old fencing business and scaled it to become the #1 fence provider in Port St. Lucie, Florida, growing from $2,500 to $50,000 per month through complete digital marketing, website development, and strategic advertising across 6 platforms.",
+      shortDescription: "Took a 1 month old fencing business and scaled it to become the #1 fence provider in Port St. Lucie, Florida, growing from $2,500 to $50,000 per month through complete digital marketing, website development, and strategic advertising across 6 platforms.",
       sections: [
         {
           title: "Overview",
@@ -56,11 +56,11 @@ export default function OurWorkPage() {
         },
         {
           title: "From Startup to Market Leader",
-          content: "Starting with a brand-new business is tough: you have no reputation, no online presence, and limited customers. We helped him jump straight to market leader status by creating a professional digital presence that made his one-month-old business look established and trustworthy. Combined with aggressive marketing, this positioned him as the go-to fence company in Port St. Lucie."
+          content: "Starting with a brand new business is tough: you have no reputation, no online presence, and limited customers. We helped him jump straight to market leader status by creating a professional digital presence that made his one month old business look established and trustworthy. Combined with aggressive marketing, this positioned him as the go to fence company in Port St. Lucie."
         },
         {
           title: "Website Development",
-          content: "We built them a professional website that showcases their work and makes it easy for customers to request quotes. The site is mobile-friendly and optimized for local searches, so people in their area can easily find them."
+          content: "We built them a professional website that showcases their work and makes it easy for customers to request quotes. The site is mobile friendly and optimized for local searches, so people in their area can easily find them."
         },
         {
           title: "Social Media Setup & Management",
@@ -111,7 +111,7 @@ export default function OurWorkPage() {
         },
         {
           title: "Online Payment & Scheduling",
-          content: "Just like ordering food delivery, customers fill out a form, pay for their laundry service upfront, and choose their pickup and drop-off times. This pre-payment system means the owner knows exactly what's coming and gets paid automatically, with no chasing payments or manual booking."
+          content: "Just like ordering food delivery, customers fill out a form, pay for their laundry service upfront, and choose their pickup and drop off times. This pre payment system means the owner knows exactly what's coming and gets paid automatically, with no chasing payments or manual booking."
         },
         {
           title: "Why This Works For A Solo Owner",
@@ -130,7 +130,7 @@ export default function OurWorkPage() {
       serviceType: "Web Services",
       image: "/assets/JB-Mechanical.PNG",
       website: "https://jb-mechanical.vercel.app/",
-      shortDescription: "Developed a comprehensive website for a solo HVAC and plumbing contractor to expand beyond word-of-mouth marketing, with ongoing seasonal advertising campaigns to attract customers during peak heating season.",
+      shortDescription: "Developed a comprehensive website for a solo HVAC and plumbing contractor to expand beyond word of mouth marketing, with ongoing seasonal advertising campaigns to attract customers during peak heating season.",
       sections: [
         {
           title: "Overview",
@@ -138,7 +138,7 @@ export default function OurWorkPage() {
         },
         {
           title: "Website as Information Hub",
-          content: "We built a website that acts as a central source of information about his business. Potential customers can see all his services (heating, cooling, plumbing), service areas across Massachusetts, New Hampshire, and Maine, pricing information, and customer reviews—everything they need to make a decision to call him."
+          content: "We built a website that acts as a central source of information about his business. Potential customers can see all his services (heating, cooling, plumbing), service areas across Massachusetts, New Hampshire, and Maine, pricing information, and customer reviews. Everything they need to make a decision to call him."
         },
         {
           title: "The Challenge: Beyond Word of Mouth",
@@ -172,24 +172,24 @@ export default function OurWorkPage() {
           content: "Restoration Healthcare had ambitions to grow beyond their local Peabody operation, but they lacked the digital tools to make it happen. They needed more than just a website; they wanted a complete content marketing system their staff could actually use without constant tech support. We built them a full digital ecosystem focused on scalable communication and geographic expansion."
         },
         {
-          title: "Content-First Website",
+          title: "Content First Website",
           content: "We designed their website to be a content hub, not just a digital brochure. The site features their services, patient resources, and most importantly, a blog section that their team controls. This gave them a platform to publish health tips, community updates, and educational content that would help them rank in search results and build trust with potential clients in new markets."
         },
         {
-          title: "Worker-Managed Blog System",
+          title: "Worker Managed Blog System",
           content: "We created a custom blog platform that their team can edit and update themselves, with no technical knowledge required. This lets them share health tips, company updates, and important information with their community. Giving their staff direct control means the content stays fresh and relevant without needing to go through us for every change."
         },
         {
           title: "Email Newsletter System",
-          content: "We set up an email newsletter system that helps them stay connected with current and potential clients. They can send out updates about services, health information, and company news directly to people who want to hear from them. This keeps Restoration Healthcare top-of-mind and builds long-term relationships with their community."
+          content: "We set up an email newsletter system that helps them stay connected with current and potential clients. They can send out updates about services, health information, and company news directly to people who want to hear from them. This keeps Restoration Healthcare top of mind and builds long term relationships with their community."
         },
         {
           title: "Geographic Expansion",
           content: "With their new digital presence, we helped them expand beyond their home base in Peabody into the Western Massachusetts area. The website gave them credibility in new markets, and the newsletter system let them stay connected with clients across a much larger geographic footprint. They went from a purely local operation to serving patients throughout Massachusetts."
         },
         {
-          title: "The Self-Service Advantage",
-          content: "What makes this project unique is how much control we gave their team. They don't need to call us every time they want to publish a blog post or send a newsletter. The systems we built are intuitive enough that anyone on their staff can use them. This means they can move fast, respond to community needs in real-time, and keep their content fresh without waiting on developers or paying for constant updates."
+          title: "The Self Service Advantage",
+          content: "What makes this project unique is how much control we gave their team. They don't need to call us every time they want to publish a blog post or send a newsletter. The systems we built are intuitive enough that anyone on their staff can use them. This means they can move fast, respond to community needs in real time, and keep their content fresh without waiting on developers or paying for constant updates."
         }
       ],
     },
@@ -205,7 +205,7 @@ export default function OurWorkPage() {
         {/* Our Work Section */}
         <section id="work" className="pt-32 pb-24 px-6 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.02),transparent)]">
           <div className="max-w-5xl mx-auto text-center mb-20 relative">
-            <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm shadow-[0_0_8px_rgba(255,255,255,0.04)]">
               <div className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
               <span className="text-[10px] font-bold uppercase tracking-[0.3em] text-zinc-500">
                 What we do
@@ -247,7 +247,7 @@ export default function OurWorkPage() {
             </div>
             <div className="relative group">
               <div className="absolute -inset-1 bg-linear-to-r from-zinc-800 to-zinc-900 rounded-2xl blur opacity-20 group-hover:opacity-40 transition duration-1000 group-hover:duration-200" />
-              <div className="relative h-[500px] bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden shadow-2xl">
+              <div className="relative h-[500px] bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden shadow-[0_0_20px_rgba(255,255,255,0.04),inset_0_0_30px_rgba(255,255,255,0.02)]">
                 <ImageCarousel />
               </div>
             </div>
@@ -258,7 +258,7 @@ export default function OurWorkPage() {
         <section className="py-24 px-6 border-t border-zinc-900">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-16">
-              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm">
+              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm shadow-[0_0_8px_rgba(255,255,255,0.04)]">
                 <div className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
                 <span className="text-[10px] font-bold uppercase tracking-[0.3em] text-zinc-500">
                   Case Studies
@@ -275,7 +275,7 @@ export default function OurWorkPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {projects.map((project) => (
                 <div key={project.id} className="group">
-                  <div className="bg-zinc-950/50 border border-zinc-800 rounded-2xl overflow-hidden hover:border-zinc-700 transition-all">
+                  <div className="bg-zinc-950/50 border border-zinc-800 rounded-2xl overflow-hidden shadow-[0_0_15px_rgba(255,255,255,0.03)] hover:border-zinc-700 hover:shadow-[0_0_30px_rgba(255,255,255,0.1)] transition-all duration-300">
                     {/* Image - Links to website if available, otherwise opens modal */}
                     {project.website && project.website !== "#" ? (
                       <a 
@@ -343,7 +343,7 @@ export default function OurWorkPage() {
                 onClick={() => setSelectedProject(null)}
               >
                 <div 
-                  className="bg-zinc-950 border border-zinc-800 rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto"
+                  className="bg-zinc-950 border border-zinc-800 rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto shadow-[0_0_30px_rgba(255,255,255,0.1)]"
                   onClick={(e) => e.stopPropagation()}
                 >
                   {projects.filter(p => p.id === selectedProject).map((project) => (

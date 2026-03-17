@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     default: "Modivi Group",
     template: "%s | Modivi Group"
   },
-  description: "Modivi Group blends cutting-edge technology with creative vision to deliver digital marketing, web development, and branding solutions that grow your business.",
+  description: "Modivi Group blends cutting edge technology with creative vision to deliver digital marketing, web development, and branding solutions that grow your business.",
   keywords: [
     // Core Services - "Needed" Variations
     "web designer needed Boston",
@@ -110,7 +110,7 @@ export const metadata: Metadata = {
     "marketing consultant Massachusetts",
     "digital strategy Boston",
     "marketing services near me",
-    "full-service marketing agency",
+    "full service marketing agency",
     "integrated marketing Boston",
     "digital marketing consultant",
     "marketing solutions Massachusetts",
@@ -213,7 +213,7 @@ export const metadata: Metadata = {
     "social media and advertising Massachusetts",
     "logo design and branding Boston",
     "website design and marketing",
-    "full-service digital agency Boston",
+    "full service digital agency Boston",
     
     // Problem/Solution Keywords
     "increase website traffic Boston",
@@ -531,7 +531,7 @@ export const metadata: Metadata = {
     url: "https://modivi.group",
     siteName: "Modivi Group",
     title: "Modivi Group | Digital Marketing, Web Design & Branding Agency Boston MA",
-    description: "Modivi Group blends cutting-edge technology with creative vision to deliver digital marketing, web development, and branding solutions that grow your business.",
+    description: "Modivi Group blends cutting edge technology with creative vision to deliver digital marketing, web development, and branding solutions that grow your business.",
     images: [
       {
         url: "/assets/Banner.PNG",
@@ -547,7 +547,7 @@ export const metadata: Metadata = {
     site: "@modivigroup",
     creator: "@modivigroup",
     title: "Modivi Group | Digital Marketing, Web Design & Branding Agency Boston MA",
-    description: "Modivi Group blends cutting-edge technology with creative vision to deliver digital marketing, web development, and branding solutions that grow your business.",
+    description: "Modivi Group blends cutting edge technology with creative vision to deliver digital marketing, web development, and branding solutions that grow your business.",
     images: ["/assets/Banner.PNG"],
   },
   robots: {

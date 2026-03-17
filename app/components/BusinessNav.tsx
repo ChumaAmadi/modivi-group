@@ -8,7 +8,7 @@ const navItems = [
   { 
     id: "home", 
     label: "Home", 
-    href: "/business", 
+    href: "/", 
     icon: (
       <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
@@ -68,7 +68,7 @@ export default function BusinessNav() {
 
   useEffect(() => {
     // Set active section based on pathname
-    if (pathname === "/business") {
+    if (pathname === "/" || pathname === "/business") {
       setActiveSection("home");
     } else if (pathname === "/about") {
       setActiveSection("about");
@@ -107,7 +107,7 @@ export default function BusinessNav() {
           </Link>
 
           {/* Desktop Navigation Tabs */}
-          <div className="hidden lg:flex items-center gap-1 bg-zinc-950/50 border border-zinc-800 rounded-full px-2 py-1.5">
+          <div className="hidden lg:flex items-center gap-1 bg-zinc-950/50 border border-zinc-800 rounded-full px-2 py-1.5 shadow-[0_0_10px_rgba(255,255,255,0.03)]">
             {navItems.map((item) => (
               <Link
                 key={item.id}

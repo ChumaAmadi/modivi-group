@@ -17,7 +17,7 @@ export default function PrivacyPage() {
         <section className="pt-32 pb-24 px-6">
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-16">
-              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm">
+              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm shadow-[0_0_8px_rgba(255,255,255,0.04)]">
                 <div className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
                 <span className="text-[10px] font-bold uppercase tracking-[0.3em] text-zinc-500">
                   Legal
@@ -355,7 +355,7 @@ export default function PrivacyPage() {
                   <p>
                     If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
                   </p>
-                  <div className="bg-zinc-950/50 border border-zinc-800 rounded-lg p-6 mt-4">
+                  <div className="bg-zinc-950/50 border border-zinc-800 rounded-lg p-6 mt-4 shadow-[0_0_12px_rgba(255,255,255,0.04)]">
                     <p className="font-bold text-white mb-2">Modivi Group</p>
                     <p className="mb-2">Data Protection Officer</p>
                     <p>Email: <a href="mailto:admin@modivi.group?subject=Privacy%20Inquiry" className="text-white hover:text-zinc-300 transition-colors">admin@modivi.group</a></p>
@@ -365,7 +365,7 @@ export default function PrivacyPage() {
                   </div>
                 </section>
 
-                <section className="bg-zinc-950/50 border border-zinc-800 rounded-lg p-6 mt-8">
+                <section className="bg-zinc-950/50 border border-zinc-800 rounded-lg p-6 mt-8 shadow-[0_0_12px_rgba(255,255,255,0.04)]">
                   <h3 className="text-lg font-bold text-white mb-3">Your Privacy Matters</h3>
                   <p className="text-sm">
                     We are committed to transparency and protecting your privacy rights. This policy is designed to help you understand how we handle your information and the choices available to you. If you have any questions or concerns, we're here to help.

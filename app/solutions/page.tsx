@@ -46,23 +46,23 @@ export default function SolutionsPage() {
       sections: [
         {
           title: "Overview",
-          content: "Your website is your digital storefront and often the first impression potential customers have of your business. We build fast, modern, mobile-friendly websites designed to convert visitors into customers, not just look pretty."
+          content: "Your website is your digital storefront and often the first impression potential customers have of your business. We build fast, modern, mobile friendly websites designed to convert visitors into customers, not just look pretty."
         },
         {
           title: "Custom Design Tailored to You",
-          content: "No cookie-cutter templates here. We design every website from scratch based on your business, your industry, and what your customers actually need. The result is a unique site that reflects your brand and guides visitors exactly where you want them to go."
+          content: "No cookie cutter templates here. We design every website from scratch based on your business, your industry, and what your customers actually need. The result is a unique site that reflects your brand and guides visitors exactly where you want them to go."
         },
         {
           title: "Built for Search Engines",
           content: "What good is a beautiful website if no one can find it? We build sites with SEO in mind from day one: clean code, fast loading speeds, proper meta tags, mobile optimization, and structured data. This gives you the best shot at ranking in Google searches for your services."
         },
         {
-          title: "Mobile-First Approach",
+          title: "Mobile First Approach",
           content: "Most of your visitors are on phones. We design for mobile screens first, then scale up to tablets and desktops. This ensures your site looks great and works perfectly no matter what device someone is using."
         },
         {
           title: "Conversion-Focused Features",
-          content: "Every website we build includes clear calls-to-action, contact forms that actually work, click-to-call buttons for mobile users, and strategic placement of trust signals like testimonials and credentials. The goal is to make it as easy as possible for visitors to become customers."
+          content: "Every website we build includes clear calls to action, contact forms that actually work, click to call buttons for mobile users, and strategic placement of trust signals like testimonials and credentials. The goal is to make it as easy as possible for visitors to become customers."
         },
         {
           title: "What You Get",
@@ -70,7 +70,7 @@ export default function SolutionsPage() {
         },
         {
           title: "Ongoing Updates & Support",
-          content: "Need to update your website? We handle it. Want to add new features, remove old ones, or swap out images and content? Just ask. Website acting slow or having issues? We fix it. You get what you pay for and more—no surprise charges for basic updates and maintenance."
+          content: "Need to update your website? We handle it. Want to add new features, remove old ones, or swap out images and content? Just ask. Website acting slow or having issues? We fix it. You get what you pay for and more. No surprise charges for basic updates and maintenance."
         },
         {
           title: "No Tech Headaches",
@@ -81,7 +81,7 @@ export default function SolutionsPage() {
     {
       id: 3,
       title: 'Digital Marketing',
-      description: 'Data-driven marketing strategies that increase visibility and drive qualified leads to your business.',
+      description: 'Data driven marketing strategies that increase visibility and drive qualified leads to your business.',
       features: ['Social Media Setup', 'Content Strategy', 'Ad Campaigns'],
       sections: [
         {
@@ -102,7 +102,7 @@ export default function SolutionsPage() {
         },
         {
           title: "Social Media Management",
-          content: "We set up and manage your presence on the platforms where your customers actually are: Facebook, Instagram, TikTok, LinkedIn, YouTube, wherever makes sense for your business. Regular posts, engagement with followers, and content that keeps you top-of-mind without you having to think about it."
+          content: "We set up and manage your presence on the platforms where your customers actually are: Facebook, Instagram, TikTok, LinkedIn, YouTube, wherever makes sense for your business. Regular posts, engagement with followers, and content that keeps you top of mind without you having to think about it."
         },
         {
           title: "Content Strategy",
@@ -138,7 +138,7 @@ export default function SolutionsPage() {
         },
         {
           title: "Automated Follow-Up",
-          content: "The moment someone fills out a form, they're entered into an automated email sequence that educates them about your services, answers common questions, and builds trust. This keeps you top-of-mind until they're ready to buy, without you manually sending emails."
+          content: "The moment someone fills out a form, they're entered into an automated email sequence that educates them about your services, answers common questions, and builds trust. This keeps you top of mind until they're ready to buy, without you manually sending emails."
         },
         {
           title: "CRM Setup & Management",
@@ -157,7 +157,7 @@ export default function SolutionsPage() {
     {
       id: 5,
       title: 'Local SEO',
-      description: 'Dominate local search results and become the go-to choice in your area.',
+      description: 'Dominate local search results and become the go to choice in your area.',
       features: ['Google Business', 'Social Integration', 'Scalable Growth'],
       sections: [
         {
@@ -170,7 +170,7 @@ export default function SolutionsPage() {
         },
         {
           title: "Local Citations",
-          content: "We get your business listed on all the major directories: Yelp, Yellow Pages, industry-specific sites, and local business directories. Consistent information across these platforms signals to Google that you're a legitimate, established business, boosting your local rankings."
+          content: "We get your business listed on all the major directories: Yelp, Yellow Pages, industry specific sites, and local business directories. Consistent information across these platforms signals to Google that you're a legitimate, established business, boosting your local rankings."
         },
         {
           title: "Review Generation & Management",
@@ -178,11 +178,11 @@ export default function SolutionsPage() {
         },
         {
           title: "Location Pages & Content",
-          content: "We create location-specific pages on your website optimized for searches in your area. These pages target location-based keywords and provide valuable information that helps you rank for \"[service] near me\" and \"[service] in [city]\" searches."
+          content: "We create location specific pages on your website optimized for searches in your area. These pages target location based keywords and provide valuable information that helps you rank for \"[service] near me\" and \"[service] in [city]\" searches."
         },
         {
           title: "Social Media Integration for SEO",
-          content: "We integrate your social media platforms into your SEO strategy using platform-specific features like hashtags, location tags, and keywords. Strategic use of local hashtags on Instagram and TikTok, combined with location-tagged posts across all platforms, creates additional pathways for people to find your business. Search engines see this active social presence and factor it into your rankings. Each social platform becomes another channel driving visibility and traffic."
+          content: "We integrate your social media platforms into your SEO strategy using platform specific features like hashtags, location tags, and keywords. Strategic use of local hashtags on Instagram and TikTok, combined with location tagged posts across all platforms, creates additional pathways for people to find your business. Search engines see this active social presence and factor it into your rankings. Each social platform becomes another channel driving visibility and traffic."
         },
         {
           title: "Expanding Beyond Local",
@@ -197,7 +197,7 @@ export default function SolutionsPage() {
     {
       id: 6,
       title: 'Content Creation',
-      description: 'Consistent, high-quality content that keeps your brand top-of-mind and builds authority.',
+      description: 'Consistent, high quality content that keeps your brand top of mind and builds authority.',
       features: ['Photography', 'Videography', 'Copywriting'],
       sections: [
         {
@@ -206,11 +206,11 @@ export default function SolutionsPage() {
         },
         {
           title: "Professional Photography",
-          content: "High-quality photos of your work, your team, and your location. We capture images that make your business look professional and credible, perfect for your website, social media, ads, and marketing materials. No more blurry phone photos."
+          content: "High quality photos of your work, your team, and your location. We capture images that make your business look professional and credible, perfect for your website, social media, ads, and marketing materials. No more blurry phone photos."
         },
         {
           title: "Video Production",
-          content: "Video is the most engaging content format. We create service explainer videos, customer testimonials, behind-the-scenes content, and social media reels that show what you do and why people should choose you. Video builds connection and trust faster than any other medium."
+          content: "Video is the most engaging content format. We create service explainer videos, customer testimonials, behind the scenes content, and social media reels that show what you do and why people should choose you. Video builds connection and trust faster than any other medium."
         },
         {
           title: "Copywriting & Messaging",
@@ -218,7 +218,7 @@ export default function SolutionsPage() {
         },
         {
           title: "Content Calendar & Consistency",
-          content: "We plan and schedule content in advance so you have a consistent presence online. Regular posting keeps you top-of-mind, improves your search rankings, and gives people reasons to follow and engage with your brand."
+          content: "We plan and schedule content in advance so you have a consistent presence online. Regular posting keeps you top of mind, improves your search rankings, and gives people reasons to follow and engage with your brand."
         },
         {
           title: "Repurposing Content",
@@ -240,7 +240,7 @@ export default function SolutionsPage() {
         <section id="solutions" className="pt-32 pb-24 px-6">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-16">
-              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm">
+              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm shadow-[0_0_8px_rgba(255,255,255,0.04)]">
                 <div className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
                 <span className="text-[10px] font-bold uppercase tracking-[0.3em] text-zinc-500">
                   What we offer
@@ -260,7 +260,7 @@ export default function SolutionsPage() {
                 <div 
                   key={solution.id} 
                   onClick={() => setSelectedSolution(solution.id)}
-                  className="group relative bg-zinc-950/50 border border-zinc-800 rounded-2xl p-8 hover:border-zinc-700 transition-all duration-300 cursor-pointer"
+                  className="group relative bg-zinc-950/50 border border-zinc-800 rounded-2xl p-8 shadow-[0_0_15px_rgba(255,255,255,0.03)] hover:border-zinc-700 hover:shadow-[0_0_30px_rgba(255,255,255,0.1)] transition-all duration-300 cursor-pointer"
                 >
                   <div className="absolute inset-0 bg-linear-to-br from-white/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl" />
                   <div className="relative">
@@ -292,7 +292,7 @@ export default function SolutionsPage() {
                 onClick={() => setSelectedSolution(null)}
               >
                 <div 
-                  className="bg-black border border-zinc-800 rounded-xl max-w-3xl w-full max-h-[80vh] overflow-hidden"
+                  className="bg-black border border-zinc-800 rounded-xl max-w-3xl w-full max-h-[80vh] overflow-hidden shadow-[0_0_30px_rgba(255,255,255,0.1)]"
                   onClick={(e) => e.stopPropagation()}
                 >
                   {solutions.filter(s => s.id === selectedSolution).map((solution) => (
@@ -347,7 +347,7 @@ export default function SolutionsPage() {
 
             {/* CTA Section */}
             <div className="mt-20 text-center">
-              <div className="max-w-3xl mx-auto bg-zinc-950/50 border border-zinc-800 rounded-2xl p-12">
+              <div className="max-w-3xl mx-auto bg-zinc-950/50 border border-zinc-800 rounded-2xl p-12 shadow-[0_0_40px_rgba(255,255,255,0.08)]">
                 <h2 className="text-3xl md:text-4xl font-bold mb-6 uppercase tracking-tight">
                   Ready to Get Started?
                 </h2>

@@ -17,7 +17,7 @@ export default function ContactPage() {
         <section id="contact" className="pt-32 pb-24 px-6">
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-16">
-              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm">
+              <div className="inline-flex items-center gap-2 px-4 py-1.5 border border-zinc-800 rounded-full mb-8 bg-zinc-950/50 backdrop-blur-sm shadow-[0_0_8px_rgba(255,255,255,0.04)]">
                 <div className="w-1.5 h-1.5 rounded-full bg-white animate-pulse" />
                 <span className="text-[10px] font-bold uppercase tracking-[0.3em] text-zinc-500">
                   Get in touch
@@ -33,7 +33,7 @@ export default function ContactPage() {
             </div>
             
             <div className="max-w-xl mx-auto mb-12">
-              <div className="bg-zinc-950/50 border border-zinc-800 rounded-2xl p-8 text-left hover:border-zinc-700 transition-all group">
+              <div className="bg-zinc-950/50 border border-zinc-800 rounded-2xl p-8 text-left shadow-[0_0_12px_rgba(255,255,255,0.04)] hover:border-zinc-700 hover:shadow-[0_0_25px_rgba(255,255,255,0.12)] transition-all duration-300 group">
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-white/5 rounded-full flex items-center justify-center shrink-0 group-hover:bg-white/10 transition-colors">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -76,7 +76,7 @@ export default function ContactPage() {
             </div>
 
             {/* Additional Info */}
-            <div className="bg-zinc-950/50 border border-zinc-800 rounded-2xl p-8">
+            <div className="bg-zinc-950/50 border border-zinc-800 rounded-2xl p-8 shadow-[0_0_30px_rgba(255,255,255,0.08)]">
               <h2 className="text-2xl font-bold mb-6 uppercase tracking-tight text-center">What to Expect</h2>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="text-center">
